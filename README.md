@@ -22,11 +22,11 @@ A professional typing speed test application with score tracking, history, and m
 pip install tkinter
 Clone this repository or download the source files
 
-##Run the application:
+## Run the application:
 python typing_speed_test_pro.py
 
 
-##Usage
+## Usage
 Select your difficulty level (Easy, Medium, Hard)
 
 Click "Start New Test" or begin typing immediately
@@ -38,7 +38,7 @@ View your results when completed
 Check your progress in the History and High Scores sections
 
 
-##Customization
+## Customization
 
 To personalize the application with your branding:
 
@@ -55,10 +55,10 @@ Your Favorite Backend Girl - Your signature or preferred credit line
 Adjust the brand color by changing the brand_color hex value
 
 
-##License
+## License
 This software is licensed under the MIT License - see the LICENSE file for details.
 
-##Copyright
+## Copyright
 © 2025 Dabeey. All Rights Reserved.
 Typing Speed Test Pro™ is a trademark of Dabeey.
 
