@@ -2,7 +2,7 @@
 
 ![Application Screenshot](screenshot.png)
 
-A professional typing speed test application with score tracking, history, and multiple difficulty levels.
+A professional typing speed test application with score tracking, history, and multiple difficulty levels. 
 
 ## Features
 
@@ -20,6 +20,7 @@ A professional typing speed test application with score tracking, history, and m
 2. Install required dependencies:
 
 pip install tkinter
+
 Clone this repository or download the source files
 
 ## Run the application:
@@ -27,15 +28,15 @@ python typing_speed_test_pro.py
 
 
 ## Usage
-Select your difficulty level (Easy, Medium, Hard)
+- Select your difficulty level (Easy, Medium, Hard)
 
-Click "Start New Test" or begin typing immediately
+- Click "Start New Test" or begin typing immediately
 
-Type the displayed text as quickly and accurately as possible
+- Type the displayed text as quickly and accurately as possible
 
-View your results when completed
+- View your results when completed
 
-Check your progress in the History and High Scores sections
+- Check your progress in the History and High Scores sections
 
 
 ## Customization
